@@ -1,16 +1,17 @@
 ### Hi there 👋
+#### Passionate and hardworking student studying a Post graduate degree in Mechatronics aiming to gain new experience, explore new areas by applying technical knowledge and skills and work for the growth of the organization.
+#### M.Tech. - Mechatronics (ongoing)
+#### B.E. - Mechanical Engineering
+##### Belagavi, Karnataka, India
 
+
+- 🔭 I’m currently working on Autonomous vehicles
+- 🌱 I’m currently learning control systems and AI techniques
+- 👯 I’m looking to collaborate on Electric vehicle research
+- 🤔 I’m looking for help with python scripting
+- 💬 Ask me about anything mech and tech
+- 📫 How to reach me: sanketh.salimath@gmail.com
+- 😄 Pronouns: Him/He
+- ⚡ Fun fact: I wanna build an Iron man suit someday
 <!--
-**sankethsalimath/sankethsalimath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
