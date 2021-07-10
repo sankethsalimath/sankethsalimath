@@ -1,6 +1,7 @@
 ### Hi there 👋
 #### Passionate and hardworking student studying a Post graduate degree in Mechatronics aiming to gain new experience, explore new areas by applying technical knowledge and skills and work for the growth of the organization.
-#### M.Tech. - Mechatronics (ongoing)
+#### Graduate Engineering Trainee at FAYAT Engineering Centre
+#### M.Tech. - Mechatronics 
 #### B.E. - Mechanical Engineering
 ##### Belagavi, Karnataka, India
 
