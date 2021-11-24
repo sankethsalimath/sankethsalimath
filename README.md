@@ -6,7 +6,7 @@
 ##### Belagavi, Karnataka, India
 
 
-- 🔭 I’m currently working on Autonomous vehicles
+- 🔭 I’m currently working on Road Construction Equipment - Vehicles
 - 🌱 I’m currently learning control systems and AI techniques
 - 👯 I’m looking to collaborate on Electric vehicle research
 - 🤔 I’m looking for help with python scripting
